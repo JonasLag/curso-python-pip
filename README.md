@@ -1,4 +1,4 @@
-# Game proyect
+# Game project
 
 Para correr el juego debes seguir las siguientes instrucciones en la terminal:
 
@@ -6,7 +6,7 @@ Para correr el juego debes seguir las siguientes instrucciones en la terminal:
 cd Game/
 python3 main.py
 ```
-# App proyect
+# App project
 
 ```sh
 git clone
